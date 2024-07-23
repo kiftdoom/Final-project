@@ -1,4 +1,7 @@
 # 🎓 Central University of Ecuador
+![Escudo_de_la_Universidad_Central_del_Ecuador_-_Andrés_Agual_small (1)](https://github.com/user-attachments/assets/915c8d87-616d-4337-9cc5-36c59446a157)
+
+
 ## 🏫 Faculty of Engineering and Applied Sciences
 ### 📚 Final Project
 
@@ -12,7 +15,8 @@
 
 **💡 Project Topic:** Online Store
 
-![University Logo](https://example.com/university-logo.png) <!-- Puedes reemplazar este enlace con la URL de tu logo -->
+![Imagen de WhatsApp 2024-07-22 a las 19 39 11_27c52063](https://github.com/user-attachments/assets/ca3c9eb9-9e90-4fe2-9b07-10f44420dc34)
+
 
 ---
 
@@ -35,6 +39,9 @@ Develop an online store for technological products that offers a convenient, sec
 6. Integrate multiple payment options.
 7. Provide customer support and service.
 
+![Imagen de WhatsApp 2024-07-22 a las 19 39 25_7d0207b3](https://github.com/user-attachments/assets/c658d145-e4f5-4894-8104-4343f4690dfb)
+
+
 ### 🛠️ Main Development Objectives
 
 - **Create an online platform**: Develop a functional and attractive virtual store that allows users to browse and purchase technological products.
@@ -51,12 +58,17 @@ Develop an online store for technological products that offers a convenient, sec
 - **🛍️ Efficient product management**: Facilitate the administration and updating of products available in the store.
 - **😊 Customer satisfaction**: Achieve high levels of customer satisfaction through efficient service and a reliable platform.
 
+  ![Imagen de WhatsApp 2024-07-22 a las 19 39 44_fab6a6cf](https://github.com/user-attachments/assets/8eacf4e6-30c9-4cd7-9d6c-fb690ba18b10)
+
+
 ### 🌟 Project Importance
 
 - **🌐 Accessibility and convenience**: Provide customers with a convenient and accessible way to purchase technological products from anywhere, at any time.
 - **🏆 Market competitiveness**: Enable the company to compete effectively in the digital market, where more and more consumers prefer to shop online.
 - **📊 Business growth**: Help the company expand its reach and increase revenue through an effective online presence.
 - **🚀 Technological innovation**: Promote the use of advanced technologies to enhance user experience and business management.
+
+- ![Imagen de WhatsApp 2024-07-22 a las 19 40 16_b57e99e8](https://github.com/user-attachments/assets/7d44e162-56e8-44c5-bd76-b42c9d64dcd7)
 
 ---
 
@@ -79,21 +91,39 @@ To ensure that the online store meets the needs of users and market requirements
 ### 🛠️ Tools and Technologies Used
 
 1. **JavaScript (version 1.4)**:
+
+![JavaScript-logo_small](https://github.com/user-attachments/assets/801d42f8-5b4d-4540-b4af-aee08f47d78b)
+
    - Programming language used to add interactivity and dynamism to the online store.
 
 2. **HTML (HyperText Markup Language)**:
-   - Markup language used to structure the content and design of the web page.
+ 
+ ![¿Que-es-el-HTML_small](https://github.com/user-attachments/assets/e87b5ca6-bed6-48d8-8407-2ae65593ece9)
 
-3. **PHP**:
-   - Server-side programming language used to handle business logic and communication with the database.
+- Markup language used to structure the content and design of the web page.
 
-4. **XAMPP**:
-   - Free software package that includes Apache, MySQL, PHP, and Perl, used to create a local development environment.
+4. **PHP**:
 
-5. **Visual Studio Code**:
+![Best-Web-Servers-for-PHP-Development_small](https://github.com/user-attachments/assets/11aeedd9-12de-499b-b946-5241ce339ba7)
+
+ - Server-side programming language used to handle business logic and communication with the database.
+
+6. **XAMPP**:
+
+![que-es-xampp_small](https://github.com/user-attachments/assets/a4c18cab-7ebc-4aa5-a4d5-363205f967ae)
+
+ - Free software package that includes Apache, MySQL, PHP, and Perl, used to create a local development environment.
+
+8. **Visual Studio Code**:
+
+![visual-studio-la-gi-loi-the-tu-viec-su-dung-visual-studio-code_small](https://github.com/user-attachments/assets/9b517774-4514-4875-93b2-fd2751bf38ea)
+
    - Source code editor developed by Microsoft, used to write and edit the project's code. Compatible with Windows, Linux, macOS, and Web.
 
-6. **MySQL**:
+10. **MySQL**:
+ 
+   ![images_small](https://github.com/user-attachments/assets/b44cdc0d-63cc-4b1d-afa0-a8d3e278b38e)
+
    - Database management system used to store and manage information about products, users, and transactions.
 
 ---
@@ -191,7 +221,9 @@ To ensure that the online store meets the needs of users and market requirements
      - **Result**: Achieved. Transactions were completed with various payment options without issues.
   7. **Provide customer support and service**:
      - **Result**: Achieved. Customer support had an efficient response time.
-
+    
+     - ![Imagen de WhatsApp 2024-07-22 a las 19 40 59_d0745e31](https://github.com/user-attachments/assets/83de6f4e-ed84-462f-a4a9-27dda665a9a0)
+     - 
 ---
 
 ## 📌 Conclusions
